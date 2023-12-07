@@ -1,2 +1,3 @@
 # VAII
-VAII CHECKPOINT 1
+VAII CHECKPOINT 2
+Mostly in orders.html
